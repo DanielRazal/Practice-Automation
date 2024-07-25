@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a practice environment for automation, focusing on working with files, JSON files, assertions, functions, and a main executable script. The primary goal is to gain proficiency and experience in automation skills.
+This project is a practice environment for automation using Selenium in Python, focusing on working with files, JSON files, assertions, functions, and a main executable script. The primary goal is to gain proficiency and experience in automation skills.
 
 ## Installation
 

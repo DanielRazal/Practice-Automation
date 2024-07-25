@@ -15,7 +15,7 @@ To install and set up the project on your local machine, follow these steps:
     cd Practice-Automation
     ```
 
-2. **Run the main script:**
+2. **Run the main script in the terminal:**
 
     ```bash
     python main.py

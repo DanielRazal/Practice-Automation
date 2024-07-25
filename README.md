@@ -20,3 +20,6 @@ To install and set up the project on your local machine, follow these steps:
     ```bash
     python main.py
     ```
+
+## License
+These projects are protected by copyright. All rights reserved. Unauthorized use, reproduction, modification, distribution, or republication of any part of these projects is strictly prohibited without the express written permission of the copyright owner. For permissions or inquiries, please contact [mr.danielrazal@gmail.com](mailto:mr.danielrazal@gmail.com).
